@@ -97,6 +97,26 @@ python3 script.py
 - Banking release validation
 - AI-assisted troubleshooting
 
+## Demo
+
+### Terminal Run
+![Terminal Run](Screenshots/terminal_run.png)
+
+### Generated Prompt
+![Generated Prompt](Screenshots/genrated_prompt.png)
+
+### Sanitized Output
+![Sanitized Output](Screenshots/sanitized_output.png)
+
+### Masked Mapping
+![Masked Mapping](Screenshots/masked_mapping.png)
+
+### CSV File
+![CSV File](Screenshots/csv_file.png)
+
+### Logs
+![Logs](Screenshots/logs.png)
+
 ## Author
 Aaditya Acharya
 Deployment Engineer | DevOps | Banking Technology
