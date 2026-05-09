@@ -1,0 +1,8 @@
+MASKED_VALUE,ORIGINAL_VALUE
+EMAIL_001,release.support@bank.com
+IP_001,10.24.5.21
+PHONE_001,9876543210
+ACCOUNT_001,889923441122
+PATH_001,/tcs/bancs/IN/IN_MAGNA_STG
+PATH_002,/opt/jboss/standalone/log/server.log
+SERVER_001,appserver-prod-01

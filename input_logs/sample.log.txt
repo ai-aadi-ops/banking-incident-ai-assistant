@@ -1,0 +1,17 @@
+2026-05-09 09:14:21 INFO  Deployment pipeline triggered for Bancs.ear
+2026-05-09 09:14:23 INFO  Artifact checksum validation completed
+2026-05-09 09:14:31 INFO  Deploying Bancs.ear on appserver-prod-01.bank.internal
+2026-05-09 09:14:34 WARN  Existing service stopped unexpectedly on 10.24.5.21
+2026-05-09 09:14:38 ERROR Failed services => {
+"jboss.deployment.subunit.\"Bancs.ear\".\"BancsWeb.war\".undertow-deployment" => "java.lang.UnsupportedClassVersionError:
+com/tcs/bancs/IN/IN_MAGNA_STG has been compiled by a more recent version of the Java Runtime
+(class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 52.0"
+}
+2026-05-09 09:14:39 ERROR Required services that are not installed:
+"jboss.deployment.subunit.\"Bancs.ear\".\"IMWebServiceVer0.6.65.war\".deploymentCompleteService"
+"jboss.deployment.subunit.\"Bancs.ear\".\"IFXBancsWebServiceIB.war\".deploymentCompleteService"
+2026-05-09 09:14:40 ERROR Notification sent to release.support@bank.com
+2026-05-09 09:14:42 INFO  Deployment owner contact: 9876543210
+2026-05-09 09:14:43 INFO  Account validation reference: 889923441122
+2026-05-09 09:14:45 INFO  Logs stored at /opt/jboss/standalone/log/server.log
+2026-05-09 09:14:47 ERROR Deployment failed on appserver-prod-01.bank.internal
