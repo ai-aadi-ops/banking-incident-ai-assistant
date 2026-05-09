@@ -102,6 +102,9 @@ python3 script.py
 ### Terminal Run
 ![Terminal Run](Screenshots/terminal_run.png)
 
+### Terminal Run Category wise
+![Terminal Run](Screenshots/terminal_run_N.png)
+
 ### Generated Prompt
 ![Generated Prompt](Screenshots/genrated_prompt.png)
 
